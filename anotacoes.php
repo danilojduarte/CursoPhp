@@ -15,4 +15,22 @@ Anotações aula "Configurando php.ini" -->
     $nome = "Danilo";
     $sobrenome = "Duarte";
 
-    echo "Muito prazer, $nome, #sobrenome!";
+// Gerando uma constante
+
+const PAIS = "Brasil"
+
+
+
+
+    echo "Muito prazer, $nome, #sobrenome! Você mora no " . PAIS ;
+
+
+
+    Regras para nomes identificadores;
+    #1 Variaveis sempre começa com simbolo - $;
+    #2 O segudo pode ser LETRA ou SÍMBOLO;
+    #3 Aceita caracteres [a-z], [A-Z], [0-9], [];
+    #4 Aceita caracteres da tabela ASCII a partir de 128;
+    #5 Aceita caracteres acentuados como á, õ, ç;
+    #6 A linguagem é case sensitive;
+    #7 Nomes especiais como $this não podem ser utilizados; 
