@@ -26,7 +26,7 @@ const PAIS = "Brasil"
 
 
 
-    Regras para nomes identificadores;
+    // Regras para nomes identificadores;
     #1 Variaveis sempre começa com simbolo - $;
     #2 O segudo pode ser LETRA ou SÍMBOLO;
     #3 Aceita caracteres [a-z], [A-Z], [0-9], [];
@@ -34,3 +34,6 @@ const PAIS = "Brasil"
     #5 Aceita caracteres acentuados como á, õ, ç;
     #6 A linguagem é case sensitive;
     #7 Nomes especiais como $this não podem ser utilizados; 
+
+
+    // Aula Classes ipos Primitivos {}
