@@ -1,28 +1,28 @@
-<!-- Anotações aula "Por Dentro PHP"
+<!-- <!-- Anotações aula "Por Dentro PHP"
 
 Delimitacao - SuperTag
-<?php 
+<!-- <?php 
     
-?>
+?> -->
 
 Anotações aula "Configurando php.ini" -->
 <!-- Configuração realizada -->
 
 <!-- Aula declarações variaveis & constantes -->
 
-
+<!-- 
     <?echo
     $nome = "Danilo";
-    $sobrenome = "Duarte";
+    $sobrenome = "Duarte"; -->
 
 // Gerando uma constante
 
-const PAIS = "Brasil"
+// const PAIS = "Brasil"
 
 
 
 
-    echo "Muito prazer, $nome, #sobrenome! Você mora no " . PAIS ;
+    // echo "Muito prazer, $nome, #sobrenome! Você mora no " . PAIS ;
 
 
 
@@ -37,3 +37,4 @@ const PAIS = "Brasil"
 
 
     // Aula Classes ipos Primitivos {}
+     
