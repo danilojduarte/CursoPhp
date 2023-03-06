@@ -10,10 +10,10 @@ Anotações aula "Configurando php.ini" -->
 
 <!-- Aula declarações variaveis & constantes -->
 
-<!-- 
-    <?echo
-    $nome = "Danilo";
-    $sobrenome = "Duarte"; -->
+
+    <!-- <?echo -->
+    // $nome = "Danilo";
+    // $sobrenome = "Duarte"; -->
 
 // Gerando uma constante
 
@@ -38,3 +38,9 @@ Anotações aula "Configurando php.ini" -->
 
     // Aula Classes ipos Primitivos {}
      
+
+
+
+    // Manipulçao de Strings com PHP
+
+    
