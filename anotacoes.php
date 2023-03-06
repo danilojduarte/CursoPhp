@@ -43,4 +43,17 @@ Anotações aula "Configurando php.ini" -->
 
     // Manipulçao de Strings com PHP
 
-    
+    // 4 tipos de strings 
+
+    // *double quoted;
+    // (Aspas duplas) = "Curso" "PHP"
+    // juntar 2 strings ex . "teste1"."teste2";
+
+    $nome = "Danilo";
+    echo "Olá $nome !";
+
+
+
+    *single quoted;
+    *heredoc;
+    *Nowdoc;
