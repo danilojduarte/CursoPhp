@@ -49,15 +49,29 @@ Anotações aula "Configurando php.ini" -->
     // (Aspas duplas) = "Curso" "PHP"
     // juntar 2 strings ex . "teste1"."teste2";
 
-    $nome = "Danilo";
-    echo "Olá $nome !";
+    // $nome = "Danilo";
+    // echo "Olá $nome !";
 
-    $nom = "Danilo";
-    $snom = "Duarte";
+    // $nom = "Danilo";
+    // $snom = "Duarte";
 
-    echo "$nom \"José\" $snom";
+    // echo "$nom \"José\" $snom";
 
+    // \n Nova lina;
+    // \t Tabulaçao horizontal;
+    // \\ Barra invertida;
+    // \$ Sinal de cifrão;
+    // \u{} Codepoint Unicode (Exibir simbolos);
 
-    *single quoted;
-    *heredoc;
-    *Nowdoc;
+    // *single quoted;
+    // *heredoc; Exemplo :
+
+    // $curso = "PHP";
+    // $ano = date('Y');
+
+    // echo <<< FRASE 
+    // Estou estudando 
+    // $curso em $ano
+    // FRASE;
+
+    // *Nowdoc;
