@@ -52,6 +52,10 @@ Anotações aula "Configurando php.ini" -->
     $nome = "Danilo";
     echo "Olá $nome !";
 
+    $nom = "Danilo";
+    $snom = "Duarte";
+
+    echo "$nom \"José\" $snom";
 
 
     *single quoted;
